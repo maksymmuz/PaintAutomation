@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="PainAutomation.UI/PaintAutomation.UI.csproj" />
+  <Project Path="PaintAutomation.Core/PaintAutomation.Core.csproj" />
+  <Project Path="PaintAutomation.Tests/PaintAutomation.Tests.csproj" />
+</Solution>
